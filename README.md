@@ -10,7 +10,7 @@ https://github.com/gminipark/LBA-answer-extraction.git
 pip install -r requirements.txt
 ```
   
-2. 학습된 모델[link](https://drive.google.com/drive/folders/1brledUiJ9tIgSaL_72mBSHvEZG66kYqn?usp=share_link)과 함께 아래와 같이 디렉토리를  준비해주세요,
+2. 학습된 [모델](https://drive.google.com/drive/folders/1brledUiJ9tIgSaL_72mBSHvEZG66kYqn?usp=share_link)과 함께 아래와 같이 디렉토리를  준비해주세요,
 ``` 
 LBA-answer-extraction/
 	dataset.py
