@@ -16,7 +16,7 @@ LBA-answer-extraction/
 	dataset.py
 	extract.py
 	requirements.txt
-  model_dir/
+  	model_dir/
 ```
 3. Extract answer
 ```
